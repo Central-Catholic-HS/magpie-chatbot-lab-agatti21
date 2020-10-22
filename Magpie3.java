@@ -1,13 +1,3 @@
-/**
- * A program to carry on conversations with a human user.
- * This version: 
- * <ul><li>
- *    Uses advanced search for keywords 
- * </li></ul> 
- *    
- * @author Laurie White
- * @version April 2012
- */
 public class Magpie3
 {
 	/**
